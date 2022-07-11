@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chiekkored" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiekkored" height="30" width="40" /></a>
-<a href="https://fb.com/chiekko.red" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chiekko.red" height="30" width="40" /></a>
-<a href="https://instagram.com/chiekkored" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chiekkored" height="30" width="40" /></a>
+<a href="https://twitter.com/chiekkored" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff" alt="chiekkored" /></a>
+<a href="https://fb.com/chiekko.red" target="blank"><img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=fff" alt="chiekko.red" /></a>
+<a href="https://instagram.com/chiekkored" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=fff" alt="chiekkored" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
